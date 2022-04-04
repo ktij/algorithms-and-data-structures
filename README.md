@@ -1,1 +1,1 @@
-# algorithms-and-data-structures
+Coursework from my algorithms and data structures unit
